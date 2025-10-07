@@ -1,2 +1,2 @@
-# this is ead me for java project
+# this is readme for java project
 Hello
